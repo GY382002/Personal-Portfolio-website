@@ -35,7 +35,7 @@ git clone https://github.com/xeventech/Porto.git
 
 ## Watch Video Tutorial
 
-[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/Porto/thumbnail.png?raw=true "Play")](https://youtu.be/2mL4Z9Wm9IE)
+[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/Porto/thumbnail.png?raw=true "Play")](https://youtu.be/2mL4Z9Wm9IE)//
 
 
 ## Thank you for reading, here's a cat:
